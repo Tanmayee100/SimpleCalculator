@@ -11,6 +11,6 @@ public class Main{
                  System.out.print("Enter no.2:");
                  double n2= scan.nextDouble();
                  double output= n1+n2;
-                 System.out.print("Result"+output);
+                 System.out.println("Result"+output);
        }
 }
